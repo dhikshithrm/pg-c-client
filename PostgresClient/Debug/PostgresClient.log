@@ -1,0 +1,5 @@
+﻿  Application.c
+Application.obj : error LNK2019: unresolved external symbol _PQconnectdb referenced in function _main
+Application.obj : error LNK2019: unresolved external symbol _PQstatus referenced in function _main
+C:\Users\dhiks\source\repos\PostgresClient\Dependencies\libpq\libs\libpq\libpq.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\dhiks\source\repos\PostgresClient\Debug\PostgresClient.exe : fatal error LNK1120: 2 unresolved externals

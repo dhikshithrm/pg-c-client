@@ -1,0 +1,3 @@
+﻿  Application.c
+C:\Users\dhiks\source\repos\PostgresClient\PostgresClient\src\Application.c(9,9): warning C4013: 'exit' undefined; assuming extern returning int
+  PostgresClient.vcxproj -> C:\Users\dhiks\source\repos\PostgresClient\x64\Debug\PostgresClient.exe

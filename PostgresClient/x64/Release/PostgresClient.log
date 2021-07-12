@@ -1,0 +1,8 @@
+﻿  Application.c
+C:\Users\dhiks\source\repos\PostgresClient\PostgresClient\src\Application.c(8,9): warning C4013: 'exit' undefined; assuming extern returning int
+  Generating code
+  6 of 6 functions (100.0%) were compiled.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PostgresClient.vcxproj -> C:\Users\dhiks\source\repos\PostgresClient\x64\Release\PostgresClient.exe
